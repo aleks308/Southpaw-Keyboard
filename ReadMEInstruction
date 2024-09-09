@@ -1,0 +1,17 @@
+Some useful links
+
+KiCad placer/organizer - https://github.com/adamws/kicad-kbplacer
+
+QMK software guide (hand wire but basically a guide how to produce a PCB) - https://docs.qmk.fm/hand_wire
+
+QMK software for the actual computing, KLE for layout and have to save the layout to actually use in QMK
+
+PCB routing in sheet and actual PCB can be done with the KBP placer, however, you can get away with making your sheet,
+ then using the KBP to place the switches in the accurate positions and route yourself.
+
+KBP will not include any power planes or anything just the switch routes.
+
+Still trying to find the best and easiest switches but from what it looks like cherry and chocolate keys are in almost all Kicad libraries on reddit
+as well as finding hot swap sockets for them might be a lot easier.
+however, akko v3 keys are cheap on amazon and they apperently click good, can run a test run with and without the hot swap sockets.
+
